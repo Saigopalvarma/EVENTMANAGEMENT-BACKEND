@@ -1,0 +1,1 @@
+/api/events/<event_id>/attendees/details"
